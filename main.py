@@ -3,8 +3,8 @@
 #projet TP1
 
 
-def count_word (right):
-    phrase = len(right.split())
+def count_word (right): # fonction count_word
+    phrase = len(right.split()) #compte les mots de la phrase ecrite
 
-    return(phrase)
+    return(phrase) # retour de la variable
 
